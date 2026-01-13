@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Elle!
 
+![Full Stack GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTljeDE4MG13aGFrYTJoMno5OXIyZW5ydmt1cWxxcmhocjQ4MThmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif)
+
 ### 🌐 Full Stack Web Developer | Passionate about building modern web applications
 
 I am a Full Stack Web Developer with experience in creating responsive, dynamic, and user-friendly web applications. I enjoy solving complex problems and turning ideas into reality using code.
